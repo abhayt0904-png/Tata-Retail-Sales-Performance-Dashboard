@@ -1,5 +1,10 @@
 # Retail Sales Performance Dashboard | Tata Forage Virtual Experience
 
+
+![Power BI Dashboard Preview](dashboard-preview.png)
+
+
+
 **Tools:** Power BI, Microsoft Excel  
 **Domain:** Data Analytics | Business Intelligence | Retail Analytics
 
@@ -68,7 +73,8 @@ Four visualisations were developed to address the specific requirements provided
 
 ### Question 2: Top 10 Countries by Revenue and Quantity (Excluding UK)
 
-**Visual:** Stacked/clustered country comparison chart
+**Visual:** Clustered Column Chart
+
 
 - Identifies the top 10 countries by revenue, excluding the United Kingdom.
 - Displays revenue and quantity sold together.
