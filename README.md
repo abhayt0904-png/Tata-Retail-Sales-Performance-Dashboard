@@ -124,11 +124,13 @@ Expansion decisions should also consider profitability, logistics, customer rete
 | Interactive Power BI dashboard | [Download PBIX](./Tata%20Retail%20Sales%20Performance%20Dashboard.pbix) |
 | Dashboard report | [View PDF](./Tata%20Retail%20Sales%20Performance%20Dashboard.pdf) |
 
+
 ## 9. Executive Presentation
 
 A presentation of approximately five minutes was recorded to communicate the data-cleaning process, visualisation choices, business observations and potential expansion opportunities.
 
-The presentation video link will be added here.
+**Watch the Executive Presentation:** [Click here to watch the presentation](https://drive.google.com/file/d/1r5Zi7usEoCOeIqCgYr-Wf6Tknw-oiELz/view)
+
 
 ## 10. Acknowledgement
 
